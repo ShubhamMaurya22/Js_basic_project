@@ -19,3 +19,23 @@ Simple BMI calculator where weight and height are enter and then BMI is calculat
 <img width="398" alt="bmi" src="https://github.com/ShubhamMaurya22/Js_basic_project/assets/104679743/6b5bc54e-9b98-42b2-ab8a-acf4fb5cd9fa">
 <img width="397" alt="bmi2" src="https://github.com/ShubhamMaurya22/Js_basic_project/assets/104679743/89ef4030-7e16-455f-9d3c-19cc9c048b21">
 
+---
+
+## Number Guessing Game
+
+## Overview
+
+Number guessing game based on javascript.
+
+## Features
+
+- Generate a random number for the user to guess.
+- Input field for the user to enter their guess.
+- Provide feedback on whether the guess is correct, too high, or too low.
+- Keep track of the number of attempts.
+
+## Screenshots
+
+
+
+
