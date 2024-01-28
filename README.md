@@ -35,6 +35,8 @@ Number guessing game based on javascript.
 - Keep track of the number of attempts.
 
 ## Screenshots
+<img width="339" alt="game" src="https://github.com/ShubhamMaurya22/Js_basic_project/assets/104679743/8defc447-5a48-4b72-b702-d312951b92e9">
+<img width="343" alt="guessNum" src="https://github.com/ShubhamMaurya22/Js_basic_project/assets/104679743/4fbc8483-b6af-4f59-8b8b-fabcf978a689">
 
 
 
